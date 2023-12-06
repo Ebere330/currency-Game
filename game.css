@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    height: 40vh;
+    width: 30%;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    padding: 4%;
+    text-align: center;
+    justify-items: center;
+}
